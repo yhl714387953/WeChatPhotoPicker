@@ -1,6 +1,7 @@
 #模仿微信相册
 ****
 以后再陆续更新，效果如下视频：
+
 <img src="sources/screenConvert.gif" width = "320">
 
 ***
